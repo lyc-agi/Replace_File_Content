@@ -1,5 +1,7 @@
-
+# -*- encoding: utf-8 -*-
 # 替换性修改文件内容
+__author__ = 'Liuyichuan'
+
 import re
 import os
 
